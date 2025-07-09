@@ -104,7 +104,7 @@ A simple task management app built in Python with Flask, demonstrating the imple
 
 This project serves as a compelling demonstration of applying fundamental software design patterns to solve a practical problem: simulating network routing. It highlights my ability to craft clean, modular, and extensible codebases.
 
-- **Repository:** [Netork Routing Simulator](https://github.com/matheusenomoto/network-routing-simulator)
+- **Repository:** [Network Routing Simulator](https://github.com/matheusenomoto/network-routing-simulator)
 
 #### Architectural Principles & Design Patterns Demonstrated:
 
