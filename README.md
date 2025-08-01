@@ -223,6 +223,6 @@ Although the source code repository is private, the blog is built using the foll
 ## Connect With Me
 
 I'm always open to tech discussions. Feel free to connect:
-
-* **LinkedIn:** [https://www.linkedin.com/in/matheus-lopes-enomoto](https://www.linkedin.com/in/matheus-lopes-enomoto)
+* **[Blog](https://matheusenomoto.com/)**
+* **[LinkedIn](https://www.linkedin.com/in/matheus-lopes-enomoto/)**
 
