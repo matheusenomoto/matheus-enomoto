@@ -224,7 +224,5 @@ Although the source code repository is private, the blog is built using the foll
 
 I'm always open to tech discussions. Feel free to connect:
 
-* **LinkedIn:** [https://www.linkedin.com/in/matheus-lopes-enomoto](https://www.linkedin.com/in/matheus-lopes-enomoto)  
-* **Email:** matheusenomoto@gmail.com  
-* **Phone:** +55 41 99929 3255 (Feel free to reach out!)
+* **LinkedIn:** [https://www.linkedin.com/in/matheus-lopes-enomoto](https://www.linkedin.com/in/matheus-lopes-enomoto)
 
