@@ -218,7 +218,12 @@ Although the source code repository is private, the blog is built using the foll
 * **Others:** `cors`, `env-var`, `lucide`, `uuid`  
 * **AWS Infrastructure:** IAM, VPC, Route 53, ACM, ALB, S3, EC2
 
----
+## Software Engineering Studies, Book Notes, and more
+
+I'm passionate about solving problems, building impactful products, designing scalable systems, and sharing knowledge.
+
+[Software Engineering](https://github.com/matheusenomoto/software_engineering)
+
 
 ## Connect With Me
 
